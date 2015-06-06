@@ -160,7 +160,7 @@ int main()
 			case D:
 				if(Direction == A)
 				Direction = D;
-				break;s
+				break;
 		}
 		Draw(cx,cy,' ',Screen);
 		short old_cx = cx,old_cy = cy;
