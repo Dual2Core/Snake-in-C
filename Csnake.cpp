@@ -1,10 +1,7 @@
-#include <iostream>
-#include <string>
 #include <cstdio>
 #include <windows.h>
 #include <conio.h>
 #include <time.h>
-using namespace std;
 
 #define W 119
 #define A 97
