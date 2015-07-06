@@ -11,7 +11,7 @@
 // USTAWIENIA
 #define MAX_WIDTH 64
 #define MAX_HEIGHT 24
-#define SPEED 2 // Mniejsza wartosc = szybciej
+#define SPEED 1 // Mniejsza wartosc = szybciej
 #define MAX_TAIL_LENGTH 100
 void ZeroBackground(char scr[][MAX_HEIGHT])
 {
